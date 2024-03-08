@@ -1,0 +1,1 @@
+# EasyOCR_Tesseract.exe
